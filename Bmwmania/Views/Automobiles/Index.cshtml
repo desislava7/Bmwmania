@@ -1,0 +1,102 @@
+﻿@model IEnumerable<Bmwmania.Data.Automobile>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RegNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Models)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fuels)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EqExteriors)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EqInteriors)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EqDigits)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EqLights)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Power)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageURL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateReg)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Models.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fuels.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EqExteriors.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EqInteriors.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EqDigits.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EqLights.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Power)
+            </td>
+            <td>
+                <img src="@item.ImageURL"width="100" />
+                @* @Html.DisplayFor(modelItem => item.ImageURL) *@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateReg)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

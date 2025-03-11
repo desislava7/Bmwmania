@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|c:\\users\\1212-1\\desktop\\desislava12d\\bmwmania\\bmwmania\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|solutionrelative:bmwmania\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|c:\\users\\1212-1\\desktop\\desislava12d\\bmwmania\\bmwmania\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|solutionrelative:bmwmania\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|c:\\users\\1212-1\\desktop\\desislava12d\\bmwmania\\bmwmania\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|solutionrelative:bmwmania\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|c:\\users\\1212-1\\desktop\\desislava12d\\bmwmania\\bmwmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|solutionrelative:bmwmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|c:\\users\\1212-1\\desktop\\desislava12d\\bmwmania\\bmwmania\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|solutionrelative:bmwmania\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|c:\\users\\1212-1\\desktop\\desislava12d\\bmwmania\\bmwmania\\data\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|solutionrelative:bmwmania\\data\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|c:\\users\\1212-1\\desktop\\desislava12d\\bmwmania\\bmwmania\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0E3035-0B20-4435-8415-65784F43C461}|Bmwmania\\Bmwmania.csproj|solutionrelative:bmwmania\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Program.cs",
+              "RelativeDocumentMoniker": "Bmwmania\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Program.cs",
+              "RelativeToolTip": "Bmwmania\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:07:22.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bmwmania\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bmwmania\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T10:58:57.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Bmwmania\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Bmwmania\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T10:58:53.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Bmwmania\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Bmwmania\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswEQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:57:34.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Data\\Automobile.cs",
+              "RelativeDocumentMoniker": "Bmwmania\\Data\\Automobile.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Data\\Automobile.cs",
+              "RelativeToolTip": "Bmwmania\\Data\\Automobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:53:08.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bmwmania\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Bmwmania\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T10:52:34.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bmwmania\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\1212-1\\Desktop\\Desislava12d\\Bmwmania\\Bmwmania\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Bmwmania\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T10:51:34.831Z"
             }
           ]
         }

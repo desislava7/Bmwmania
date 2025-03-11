@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Bmwmania.hkgftqh3tp.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-obbiUjDF5OZnMZ53lHYluo6UEH7DKXRMU/P\u002B6DHsqXQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022obbiUjDF5OZnMZ53lHYluo6UEH7DKXRMU/P\u002B6DHsqXQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 10:26:46 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022obbiUjDF5OZnMZ53lHYluo6UEH7DKXRMU/P\u002B6DHsqXQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 10:59:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Bmwmania/Bmwmania.hkgftqh3tp.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Bmwmania.hkgftqh3tp.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hkgftqh3tp"},{"Name":"integrity","Value":"sha256-obbiUjDF5OZnMZ53lHYluo6UEH7DKXRMU/P\u002B6DHsqXQ="},{"Name":"label","Value":"_content/Bmwmania/Bmwmania.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022obbiUjDF5OZnMZ53lHYluo6UEH7DKXRMU/P\u002B6DHsqXQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 10:26:46 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022obbiUjDF5OZnMZ53lHYluo6UEH7DKXRMU/P\u002B6DHsqXQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 10:59:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Bmwmania/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
